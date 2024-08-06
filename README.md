@@ -1,4 +1,10 @@
 # Anca Pitigoi - Portfolio
+# Table of Contents
+* [About me](#about-me)
+* [Projects](#projects)
+* [Education](#education)
+* [Certificates](#certificates)
+* [Contact](#contact)
 
 ## About me
 
@@ -14,7 +20,7 @@ This repository displays past and current projects I am working on, showcasing m
 * R
   * Decision Tree: Mushrooms Selection
 * SQL
-* [Tableau](https://public.tableau.com/app/profile/anca.pitigoi/vizzes)
+* [Tableau Portfolio](https://public.tableau.com/app/profile/anca.pitigoi/vizzes)
   * Boston Crime Analysis
   * AirBnB Occupancy in Seattle  
 * Excel
