@@ -18,7 +18,7 @@ This repository displays past and current projects I am working on, showcasing m
 
 # Projects
 * R
-  * Decision Tree: Mushrooms Selection
+  * [Decision Tree: Mushrooms Selection](docs/Decision-Tree---Mushrooms-Selection.html)
 * SQL
 * [Tableau Portfolio](https://public.tableau.com/app/profile/anca.pitigoi/vizzes)
   * Boston Crime Analysis
