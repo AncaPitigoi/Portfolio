@@ -21,7 +21,7 @@ This repository displays past and current projects I am working on, showcasing m
   * [Decision Tree: Mushrooms Selection](#mushrooms-selection)
 * SQL
 * [Tableau Portfolio](https://public.tableau.com/app/profile/anca.pitigoi/vizzes)
-  * Boston Crime Analysis
+  * [Boston Crime Analysis](#Boston-Crime-Analysis)
   * [AirBnB Occupancy in Seattle](#AirBnB-Occupancy-in-Seattle)
 * Excel
 
