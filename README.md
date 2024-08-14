@@ -19,11 +19,10 @@ This repository displays past and current projects I am working on, showcasing m
 # Projects
 * R
   * [Decision Tree: Mushrooms Selection](#mushrooms-selection)
-* SQL
+
 * [Tableau Portfolio](https://public.tableau.com/app/profile/anca.pitigoi/vizzes)
   * [Boston Crime Analysis](#Boston-Crime-Analysis)
   * [AirBnB Occupancy in Seattle](#AirBnB-Occupancy-in-Seattle)
-* Excel
 
 # Mushrooms Selection
 In order to find which mushrooms are safe to eat, the Decision Tree classification method is used. The dataset was first cleaned, exploratory data analysis was performed, the tree was built on the training dataset, optimization was applied, and finally the validation of the classification model results was achieved on the test set.
