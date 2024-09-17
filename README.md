@@ -25,7 +25,7 @@ This repository displays past and current projects I am working on, showcasing m
   * [AirBnB Occupancy in Seattle](#AirBnB-Occupancy-in-Seattle)
  
 * SQL
-  * Store Database (Coming soon as of 8/30/24)
+  * [Store Database)(#The-Store-Database)
 
 # Mushrooms Selection
 In order to find which mushrooms are safe to eat, the Decision Tree classification method is used. The dataset was first cleaned, exploratory data analysis was performed, the tree was built on the training dataset, optimization was applied, and finally the validation of the classification model results was achieved on the test set.
@@ -58,6 +58,18 @@ Dashboard: [AirBnB Occupancy in Seattle](https://public.tableau.com/app/profile/
 Skills: Tableau, joining multiple tables, data visualization, creating map charts, dashboards, and plots
 
 Results: Renting an apartment in certain zip codes can be more expensive on average because of the proximity to certain sightseeings. Moreover, the revenue is slowly increasing from February, with a peak near the winter holidays as expected. This information is helpful for any investor that wants to rent out an apartment and have the largest return on investment. It also makes sense to buy a larger apartement because the average price increases with size, and the competition is more scarcer.
+
+# The Store Database
+The Store Database project presents SQL querying skills using three data tables. Data cleaning, data validation, and exploratory data analysis will be performed using diverse functions such as joining tables, grouping by certain criteria, and performing calculations.
+
+Report: [The Store Database: Report](https://github.com/AncaPitigoi/Store-Database/blob/48574e2e3aa35a448ef9571dd787f78ba5fe05c9/SQL%20-%20Store%20Database.pdf)
+
+Code: [The Store Database: Code](https://github.com/AncaPitigoi/Store-Database/blob/48574e2e3aa35a448ef9571dd787f78ba5fe05c9/store-inventory-code.sql)
+
+Skills: joining, grouping, filtering data, data validation, SQL, indexing, databse schema
+
+Results: Based on the analysis, Ben Franklin store achieved the highest revenue across all years, rice paper is the most sold product in terms of quantity, and Sultanas brings the highest revenue across all stores. In terms of profitability, corn brooms and Sultanas stand out with the highest profit margins, whereas hazelnut cream coffee yields the lowest margins. The sales trends over the years show a noticeable decline in December each year. Also, the best year in terms of revenue was 2018, toping $8.4 million dollars. The highest transaction ever recorded was in 2019, where a customer bought 411 items in one sale.
+
 
 # Education
 Northeastern University, Boston: Master of Professional Studies in Analytics, Statistical Modeling Concentration, 2023 - 2025
