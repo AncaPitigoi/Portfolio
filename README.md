@@ -25,7 +25,7 @@ This repository displays past and current projects I am working on, showcasing m
   * [AirBnB Occupancy in Seattle](#AirBnB-Occupancy-in-Seattle)
  
 * SQL
-  * [Store Database)(#The-Store-Database)
+  * [Store Database](#The-Store-Database)
 
 # Mushrooms Selection
 In order to find which mushrooms are safe to eat, the Decision Tree classification method is used. The dataset was first cleaned, exploratory data analysis was performed, the tree was built on the training dataset, optimization was applied, and finally the validation of the classification model results was achieved on the test set.
