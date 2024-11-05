@@ -31,7 +31,7 @@ This repository displays past and current projects I am working on, showcasing m
   * [The Store Database](#The-Store-Database)
 
 # Forecast the Car Insurance Risk Rating
-This project attempts to forecast the vehicle risk rating for an insurance company. Different data mining applications will be used and compared to see which one is best fit for this dataset. Data validation, cleaning, and exploratory analysis was performed. Finally, three different classification methods were used: SVM with different kernels, Decision Tree, and Random Forest.
+This project attempts to forecast the vehicle risk rating for an insurance company. Different data mining applications will be used and compared to see which one is best fit for this dataset. Data validation, cleaning, and exploratory analysis was performed. Moreover, the Jupyter Notebook will be using functions to facilitate coding and keep the notebook clean. Finally, three different classification methods were used: SVM with different kernels, Decision Tree, and Random Forest.
 
 Code/Report: [Forecast the Car Insurance Risk Rating](https://github.com/AncaPitigoi/car-risk/blob/5d4a864e18ecec7822313e3527b734da03fcbd28/Forecast%20the%20Insurance%20Risk%20Rating.ipynb)
 
