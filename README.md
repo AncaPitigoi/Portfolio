@@ -35,7 +35,7 @@ This repository displays past and current projects I am working on, showcasing m
 # Digit Recognition with KNN and Neural Networks
 This project explores children’s handwriting data to assess the feasibility of using machine learning models to identify potential motor skill development concerns. By analyzing images of handwritten digits, the study aims to evaluate how accurately different models can recognize numbers drawn by students to ultimately identify students that need help. Two different methods were used: KNN and Neural Networks.
 
-__Code__: [Digit Recognition with KNN and Neural Networks Code](https://github.com/AncaPitigoi/car-risk/blob/5d4a864e18ecec7822313e3527b734da03fcbd28/Forecast%20the%20Insurance%20Risk%20Rating.ipynb)
+__Code__: [Digit Recognition with KNN and Neural Networks Code](https://github.com/AncaPitigoi/digit-recognition/blob/95f4ec2edba92d55e0fce98c995ffdfa294fd123/Pitigoi-Digit%20Recognition.ipynb)
 
 __Report__: [Digit Recognition with KNN and Neural Networks](https://github.com/AncaPitigoi/digit-recognition/blob/95f4ec2edba92d55e0fce98c995ffdfa294fd123/Pitigoi-Digit%20Recognition.pdf)
 
