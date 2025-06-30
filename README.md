@@ -18,6 +18,7 @@ This repository displays past and current projects I am working on, showcasing m
 
 # Projects
 * Python
+  * [KNN and Neural Networks: Digit Recognition](#Digit-Recognition-with-KNN-and-Neural-Networks)
   * [Forecast the Car Insurance Risk Rating](#forecast-the-car-insurance-risk-rating)
 
 * R
@@ -29,6 +30,18 @@ This repository displays past and current projects I am working on, showcasing m
  
 * SQL
   * [The Store Database](#The-Store-Database)
+
+# Digit Recognition with KNN and Neural Networks
+This project explores children’s handwriting data to assess the feasibility of using machine learning models to identify potential motor skill development concerns. By analyzing images of handwritten digits, the study aims to evaluate how accurately different models can recognize numbers drawn by students to ultimately identify students that need help. Two different methods were used: KNN and Neural Networks.
+
+Code: [Digit Recognition with KNN and Neural Networks Code](https://github.com/AncaPitigoi/car-risk/blob/5d4a864e18ecec7822313e3527b734da03fcbd28/Forecast%20the%20Insurance%20Risk%20Rating.ipynb)
+
+Report: [Digit Recognition with KNN and Neural Networks](https://github.com/AncaPitigoi/digit-recognition/blob/95f4ec2edba92d55e0fce98c995ffdfa294fd123/Pitigoi-Digit%20Recognition.pdf)
+
+Skills: classification, KNN, neural networks, data validation, data visualization
+
+Results: The CNN consistently outperformed KNN across all metrics, achieving 70% accuracy versus 65% for KNN, with similar improvements in precision (71% vs 65%) and recall (70% vs 65%). The confusion matrices revealed that while both models struggled with 5 and 9 digits, the CNN still classified them more accurately overall. However, the CNN model performed a little bit worse than KNN on digit 9, but improved classification rates for all the other digits. While the current accuracy of 70% may seem modest compared to cutting-edge digit recognition systems, this limitation stems from the sparse and incomplete pixel data rather than the model architecture itself. Despite the implementation complexity, the Convolutional Neural Network is recommended as the optimal model for the school's handwritten digit recognition system. This recommendation is based on several key factors: the 5 % point accuracy improvement provides meaningful practical benefits, the superior generalization capabilities suggest more reliable performance on new data, and the faster prediction times make it more suitable for real-time applications. CNN provides the best balance of accuracy, generalization capability, and future scalability given the current constraints, making it the most suitable choice for deployment in the school's handwriting recognition system.
+
 
 # Forecast the Car Insurance Risk Rating
 This project attempts to forecast the vehicle risk rating for an insurance company. Different data mining applications will be used and compared to see which one is best fit for this dataset. Data validation, cleaning, and exploratory analysis was performed. Moreover, the Jupyter Notebook will be using functions to facilitate coding and keep the notebook clean. Finally, three different classification methods were used: SVM with different kernels, Decision Tree, and Random Forest.
