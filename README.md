@@ -19,6 +19,7 @@ This repository displays past and current projects I am working on, showcasing m
 # Projects
 * Python
   * [KNN and Neural Networks: Digit Recognition](#Digit-Recognition-with-KNN-and-Neural-Networks)
+  * [Predicting the Weather](#Predicting-the-Weather)
   * [Forecast the Car Insurance Risk Rating](#forecast-the-car-insurance-risk-rating)
 
 * R
@@ -41,6 +42,20 @@ Report: [Digit Recognition with KNN and Neural Networks](https://github.com/Anca
 Skills: classification, KNN, neural networks, data validation, data visualization
 
 Results: The CNN consistently outperformed KNN across all metrics, achieving 70% accuracy versus 65% for KNN, with similar improvements in precision (71% vs 65%) and recall (70% vs 65%). The confusion matrices revealed that while both models struggled with 5 and 9 digits, the CNN still classified them more accurately overall. However, the CNN model performed a little bit worse than KNN on digit 9, but improved classification rates for all the other digits. While the current accuracy of 70% may seem modest compared to cutting-edge digit recognition systems, this limitation stems from the sparse and incomplete pixel data rather than the model architecture itself.
+
+
+# Predicting the Weather
+This project investigates historical weather data to evaluate the effectiveness of rain prediction models. By analyzing meteorological characteristics such as temperature, humidity, wind direction, and atmospheric pressure, the study aims to identify the most influential features contributing to accurate rainfall prediction. Three different methods were used: Logistic Regression, Decision Tree, and Gradient Boosting.
+
+Code: [Predicting the Weather Code](https://github.com/AncaPitigoi/weather-prediction/blob/e12e2062aae18aba010979bcf8711c02554e5932/Pitigoi-Weather%20Forecast.ipynb)
+
+Report: [Predicting the Weather](https://github.com/AncaPitigoi/weather-prediction/blob/e12e2062aae18aba010979bcf8711c02554e5932/Pitigoi-Weather%20Forecast.pdf)
+
+Skills: classification, gradient boosting, decision tree, logistic regression, benchmark results data validation, feature engineering, data visualization
+
+Results: All three models (Logistic regression, Decision Tree, and Gradient Boosting) performed similarly well, achieving 86-87% accuracy with strong recall rates (93-95%) for detecting rain. Moreover, the speed of the models was the same for this dataset. However, all models exhibit a systematic bias toward overpredicting rain. They correctly identify actual rainy days but struggle with dry days, falsely predicting rain 34-40% of the time it does not actually rain. Rainfall prediction in this dataset is strongly influenced by moisture-related variables, like cloud cover percentage, dew point, relative humidity, and sunshine hours. These features consistently emerged as significant predictors across the first two models, reflecting real-world atmospheric conditions: higher cloud cover and dew point increase the chance of rain, while longer sunshine hours reduce it. Interestingly, traditional variables like atmospheric pressure and wind patterns had minimal predictive power.
+
+For real-world deployment, the decision tree model can support weather-responsive decision-making such as scheduling agricultural activities, issuing rain alerts, or managing drainage systems. It is recommended to add more dry days to reduce bias, and integrate the model with near real-time data feeds. Given the high recall, the model is especially valuable in risk-averse applications, where missing a rainy day would be more costly than predicting one that does not occur.
 
 
 # Forecast the Car Insurance Risk Rating
