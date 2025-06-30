@@ -113,9 +113,9 @@ __Results__: Based on the analysis, Ben Franklin store achieved the highest reve
 
 
 # Education
-Master's Degree in Analytics, Statistical Modeling Concentration, Northeastern University, Boston, USA, 2023 - 2025
+__Master's Degree in Analytics__, Statistical Modeling Concentration, Northeastern University, Boston, USA, 2023 - 2025
 
-Bachelor's Degree in Business Administration, Minor in Tourism , Bucharest University of Economic Studies, Bucharest, Romania, 2013 - 2016
+__Bachelor's Degree in Business Administration__, Minor in Tourism , Bucharest University of Economic Studies, Bucharest, Romania, 2013 - 2016
 
 # Certificates
 [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DDJETLMG2H3A) Coursera, 2022
